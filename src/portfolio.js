@@ -272,7 +272,7 @@ const podcastSection = {
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
-   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"],
+   podcast: ["Ankit Bharvad"],
   display: false // Set false to hide this section, defaults to true
 };
 
@@ -286,7 +286,7 @@ const contactInfo = {
 //Twitter Section
 
 const twitterDetails = {
-  userName : "MdSkalain", //Replace "twitter" with your twitter username without @
+  userName : "", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 export { greeting, socialMediaLinks, skillsSection, educationInfo, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
